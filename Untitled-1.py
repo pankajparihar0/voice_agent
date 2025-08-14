@@ -13,5 +13,5 @@ if __name__ == "__main__":
     intervals = [tuple(map(int, input().split())) for _ in range(k)]
     result = merge_intervals(intervals)
     print(result)
-    "'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'"
+    vHISG0GeOYBBz3x4BBXt2BUnWgrYSmVAOBfm2Wa-Wum80idlyMj8N_O5iSGot1e15_6Mu7FVj5T3BlbkFJSR3GdalWNQMtdXTonytN-WKD26BLCb_fOCz4atq27pxPzitztf7iyDryXEENCndgK5GPX5ARUA
 
